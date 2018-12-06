@@ -265,6 +265,8 @@ topics(Server) ->
 local_topics() ->
   local_topics(server()).
 
+ %%%% Progress Latihan %%%%
+
 %% me-cek apakah Topik yang dicari berada dalam list topic
 isTopic(Topic) -> lists:any(Topic, topics()) -> ok | {error, term()}.
 
