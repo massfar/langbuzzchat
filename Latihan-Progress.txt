@@ -1,0 +1,7 @@
+Mencoba menambahkan fungsi-fungsi:
+
+- isTopic %% me-cek apakah Topik yang dicari berada dalam list topic
+
+- isSubscribers %% me-cek apakah Topik yang dicari termasuk yang di subscribe
+
+- isMissing %% me-cek adakah messages yang tidak diterima oleh self()
